@@ -159,3 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 optimizer_results-full.csv
+optimizer_results.csv
+optimizer_results.xlsx
