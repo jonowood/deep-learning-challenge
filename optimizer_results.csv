@@ -1,0 +1,8 @@
+optimizer,train_loss,train_accuracy,val_loss,val_accuracy
+<keras.optimizers.optimizer_v2.gradient_descent.SGD object at 0x0000028A384139D0>,0.5343,0.7406,0.5586,0.7209
+<keras.optimizers.optimizer_v2.adam.Adam object at 0x0000028A38413C10>,0.5292,0.7448,0.5603,0.7254
+<keras.optimizers.optimizer_v2.rmsprop.RMSprop object at 0x0000028A384131C0>,0.5397,0.7407,0.5662,0.7254
+<keras.optimizers.optimizer_v2.adagrad.Adagrad object at 0x0000028A38413340>,0.5312,0.7436,0.5615,0.7242
+<keras.optimizers.optimizer_v2.adadelta.Adadelta object at 0x0000028A384135B0>,0.5312,0.7436,0.5624,0.7244
+<keras.optimizers.optimizer_v2.adamax.Adamax object at 0x0000028A38413D90>,0.5268,0.7457,0.5684,0.7246
+<keras.optimizers.optimizer_v2.nadam.Nadam object at 0x0000028A38413670>,0.5264,0.7450,0.5682,0.7221
