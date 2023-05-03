@@ -1,8 +1,0 @@
-optimizer,train_loss,train_accuracy,val_loss,val_accuracy
-gradient_descent,0.54,0.74,0.55,0.73
-adam,0.54,0.74,0.56,0.72
-rmsprop,0.54,0.74,0.57,0.73
-adagrad,0.53,0.74,0.56,0.72
-adadelta,0.53,0.74,0.56,0.72
-adamax,0.53,0.74,0.56,0.72
-nadam,0.53,0.74,0.56,0.73
