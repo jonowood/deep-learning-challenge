@@ -34,6 +34,10 @@ The second part of the analysis involves creating a deep learning neural network
 #### Part 3: Optimise the Model
 The third part of the analysis involves optimizing the model by implementing various techniques such as changing the number of neurons, layers, optimizers, activation functions, and performing a more extensive hyperparameter search using grid search and Bayesian optimization. We save and export the optimized model results to an HDF5 file named AlphabetSoupCharity_Optimisation.h5.
 
+<img src="/Images/Barplot.png">
+
+<img src="/Images/Heatmap.png">
+
 ## Conclusion
 The optimized deep learning neural network model achieves an accuracy of approximately 73%, which is slightly below the desired threshold of 75%. Despite trying different techniques to optimize the model, we were unable to achieve the desired accuracy. This suggests that there may be limitations in the dataset or that a different type of model may be better suited for this problem.
 
