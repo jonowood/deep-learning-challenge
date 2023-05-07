@@ -1,7 +1,5 @@
-# !UNDER CONSTRUCTION!
-
 <p align="center">
-<img src="/Images/Unsupervised-Learning.png" align="Center">
+<img src="/Images/deep-learning.jpeg" align="Center">
 </p>
 
 # Module 21 Challenge Submission - Deep Learning
@@ -44,23 +42,24 @@ The optimized deep learning neural network model achieves an accuracy of approxi
 ## Project Structure
 
 ```
-README.md
-requirements.txt
+AlphabetSoupCharity_Optimisation.ipynb
+AlphabetSoupCharity_Preprocess.ipynb
 Analysis Outputs
+   |-- model_optimization_results.csv
 Images
+   |-- Barplot.png
+   |-- Heatmap.png
+   |-- deep-learning.jpeg
 ML Models
-Notebooks
+   |-- AlphabetSoupCharity_Optimisation.h5
+   |-- AlphabetSoupCharity_Preprocess.h5
+README.md
 Report
-
-
-
-   |-- Unsupervised-learning.jpg
-   |-- Clustering.png
-   |-- Elbow.png
-   |-- Optimal.png
+   |-- Alphabet Soup Charity Deep Learning Model Analysis.docx
+   |-- Report - Alphabet Soup Charity Deep Learning Model Analysis.pdf
+Requirements.txt
 Resources
    |-- charity_data.csv
-
 ```
 ## Contributing
 
